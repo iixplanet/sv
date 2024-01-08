@@ -1,4 +1,5 @@
 B374k
+hjhuhuik
 $backdoor->del = $del
 <title>Backdoor
 $s=stream_socket_server("tcp://0.0.0.0:".$p,$errno,$errstr
