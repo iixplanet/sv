@@ -1,203 +1,79 @@
-
-
 B374k
-
 $backdoor->del = $del
-
 <title>Backdoor
-
 $s=stream_socket_server("tcp://0.0.0.0:".$p,$errno,$errstr
-
 s.send(("b4tm4n shell : connected
-
 /tmp/.bc',$back_connect
-
 res7ock crew
-
 if(ini_get("safe_mode") || ini_get("safe_mode_gid
-
 tmppwd = $tmp."/".$unique."_pwd.txt
-
 $htpasswd = '.htpasswd
-
 echo '<script>alert("Delete File Gagal !!")</script>';
-
 textarea name="res7ock" style
-
 $poos=$s0.$s1.$s2.$s3.$s4.$s5."[mima]);";
-
 eval(x());
-
 $call($create(null,$p(T,$file($p(T,join(null,$t))))));
-
 foxl6 = $gzsw5('', $hygg4($hygg4($akmi4
-
 eval/*sopupi3240-=*/("/*iSAC[FH*/
-
 KingDefacer
-
 txt"=>array("txt","conf","bat","sh","js","bak","doc","log","sfc
-
 c99sh_updateurl
-
 EgY_SpIdEr ShElL
-
 $bindport_port = "11457";       // default port for binding
-
 c99sh_updatefurl
-
 ccteam.ru
-
 c99sh_sourcesurl
-
 usage="$banner Syntax: ".$_SERVER['PHP_SELF']." <file to encode
-
 href='./$this_file?op=del&fname=$path/$file&dir=$path
-
 unlink("/tmp/back
-
 <title>CGI Shell
-
 CGI-Telnet Version
-
 5ls54f(@f3nct42n_5x4sts("c3rl_4n4t
-
 data = base64_decode("UEsDBAoAAAAAAEkLgk4AAAAAAAAAAAAAAAAMAAAAeW5
-
 open(CMD, "($cmd) 2>&1 |") || print "Could not execute command
-
 <?php die('Forbidden');
-
 $shellname
-
 <title>Uploader By
-
 wget "http://localhost/getsql.php?t='xiaomi_com'&f=username,password,email
-
 symlink('/home/'
-
 ackdoor php v0.1
-
 <title>Backdoor
-
 stream_socket_server("tcp://0.0.0.0:".$p,$errno,$errstr);
-
 b4tm4n shell : connected\n").encode('utf-8
-
 f(preg_match('/(.*?)cko(.*?)'.'\/7/is',$_SERVER['HTTP_USER_AGE'.'NT'],$tymjp
-
 <INPUT TYPE="hidden" name="MAX_FILE_SIZE" value="100000">
-
 http://localhost/odd.php reverseshell.py /tmp/rsh.py
-
 function s57_runCommand(command)
-
-
 getCookie("ytm_hit1") && (setCookie("ytm_hit1", 1, 1), 1
-
 f=explode("|",base64_decode("ZmlsZV9nZXRfY29udGVudHN8YmFzZTY0X2RlY29kZXxwaHA6Ly9pbnB1dA=="));
-
-system('cat /etc/passwd');
-
+system('cat /etc/passwd')
 cmd=cat+/etc/passwd
-
 echo "listen on ".htmlentities($listen_ip)." :".$listen_port."<br />";
-
 preg_replace('/0/e',urldecode('%65%76%61%6C%28%24%61%29'),0);
-
 function root($txt){wr("xplo@sexec~# ".$txt);
-
 if(md5(@$_REQUEST['_p'].'9doijoFp6B2svk2XAhpUl')=='9518e40685a1e104da755c294e656731'){$filter1=$_REQUEST['_f1
-
 fputs ($fp, "-IP=0.0.0.0\r\n");
-
 $result = array_diff(["s","a","b","ys","te","m"],["a","b"]);
-
 REQUEST[1] = "//book[php:functionString('system', '$cmd') = 'PHP']";
-
 pwhash.php
-
 Password Hasher for PHP Shell
-
 ssert&b=${fputs%28fopen%28base64_decode%28Yy5waHA%29,w%29,base64_decode
-
 symlinktarget = relpathtoabspath($_GET['symlinktarget'], $_SESSION['dir']);
-
 if ($this->_is_our_bot || $this->_force_show_code || $this->_debug)
-
 Carbylamine PHP Encoder
-
 <title>CGI Shell
-
 ion= "CGI-Telnet Version
-
 data = str_replace(array('http://',';','<','>','?','"','(',')','POST','GET','_','/'),arr
-
 f3nct42nm1n1($c2nt5nt, $st1rt, $5nd
-
 Backdoor Command Shell
-
 cmd.pl: Run commands on a webserver
-
-
 <?php die('Forbidden'); ?>
-
 <title>Uploader
-
 if (!@stristr($_SERVER["GATEWAY_INTERFACE"],"cgi") || $auth == true
-
 if (!defined$param{pwd}){$param{pwd}='ter'};
-
 $result = python_eval("import os\nos.system('$cmd')");
-
 if (!in_array(@$_SERVER['REMOTE_ADDR'], array('127.0.0.1', '::1
-
 poos=$s0.$s1.$s2.$s3.$s4.$s5."[mima]);
-
 return "/*sasas23123*/".$_POST['a']."/*sdfw3123*/";
-
 all_user_func(create_function(null,pack('H*',file_get_contents(pack('H*',join(null,$t))))));
-
 eval/*sopupi3240-=*/("/*iSAC[FH*/".$this->LGZOJH."/*iSAC[FH*/");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
